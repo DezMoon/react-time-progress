@@ -56,10 +56,6 @@ This is a simple React application that allows users to input a specific time an
 
 Feel free to fork the repository and submit pull requests for any improvements or features. Make sure to follow standard coding practices and include tests where applicable.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For any questions or feedback, you can reach me at [moongachiku@gmail.com](mailto:moongachiku@gmail.com).
